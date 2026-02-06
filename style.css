@@ -37,6 +37,26 @@ footer {
   color: white;
 }
 
+.small-img {
+  width: 200px;
+  height: auto;
+}
+
+.medium-img {
+  width: 350px;
+  height: auto;
+}
+
+.large-img {
+  width: 600px;
+  height: auto;
+}
+
+.full-width-img {
+  width: 100%;
+  height: auto;
+}
+
 /* --- Media layout --- */
 .media-grid {
   display: grid;
